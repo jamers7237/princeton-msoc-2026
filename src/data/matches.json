@@ -1,0 +1,162 @@
+[
+  {
+    "id": "2026-08-28-villanova",
+    "date": "2026-08-28",
+    "opponent": "Villanova",
+    "home": true,
+    "princeton_goals": 1,
+    "opponent_goals": 1,
+    "ivy": false,
+    "recap_url": null
+  },
+  {
+    "id": "2026-08-31-portland",
+    "date": "2026-08-31",
+    "opponent": "Portland",
+    "home": true,
+    "princeton_goals": 2,
+    "opponent_goals": 0,
+    "ivy": false,
+    "recap_url": null
+  },
+  {
+    "id": "2026-09-04-jmu",
+    "date": "2026-09-04",
+    "opponent": "JMU",
+    "home": true,
+    "princeton_goals": 2,
+    "opponent_goals": 0,
+    "ivy": false,
+    "recap_url": null
+  },
+  {
+    "id": "2026-09-07-umass",
+    "date": "2026-09-07",
+    "opponent": "UMass",
+    "home": false,
+    "princeton_goals": 2,
+    "opponent_goals": 0,
+    "ivy": false,
+    "recap_url": null
+  },
+  {
+    "id": "2026-09-12-albany",
+    "date": "2026-09-12",
+    "opponent": "Albany",
+    "home": false,
+    "princeton_goals": 1,
+    "opponent_goals": 0,
+    "ivy": false,
+    "recap_url": null
+  },
+  {
+    "id": "2026-09-15-rutgers",
+    "date": "2026-09-15",
+    "opponent": "Rutgers",
+    "home": false,
+    "princeton_goals": 0,
+    "opponent_goals": 2,
+    "ivy": false,
+    "recap_url": null
+  },
+  {
+    "id": "2026-09-19-bryant",
+    "date": "2026-09-19",
+    "opponent": "Bryant",
+    "home": false,
+    "princeton_goals": 2,
+    "opponent_goals": 1,
+    "ivy": false,
+    "recap_url": null
+  },
+  {
+    "id": "2026-09-22-seton-hall",
+    "date": "2026-09-22",
+    "opponent": "Seton Hall",
+    "home": true,
+    "princeton_goals": 0,
+    "opponent_goals": 0,
+    "ivy": false,
+    "recap_url": null
+  },
+  {
+    "id": "2026-09-26-dartmouth",
+    "date": "2026-09-26",
+    "opponent": "Dartmouth",
+    "home": false,
+    "princeton_goals": 0,
+    "opponent_goals": 1,
+    "ivy": true,
+    "recap_url": null
+  },
+  {
+    "id": "2026-10-03-yale",
+    "date": "2026-10-03",
+    "opponent": "Yale",
+    "home": true,
+    "princeton_goals": 2,
+    "opponent_goals": 1,
+    "ivy": true,
+    "recap_url": null
+  },
+  {
+    "id": "2026-10-06-hofstra",
+    "date": "2026-10-06",
+    "opponent": "Hofstra",
+    "home": false,
+    "princeton_goals": 0,
+    "opponent_goals": 0,
+    "ivy": false,
+    "recap_url": null
+  },
+  {
+    "id": "2026-10-10-columbia",
+    "date": "2026-10-10",
+    "opponent": "Columbia",
+    "home": false,
+    "princeton_goals": 1,
+    "opponent_goals": 1,
+    "ivy": true,
+    "recap_url": null
+  },
+  {
+    "id": "2026-10-17-cornell",
+    "date": "2026-10-17",
+    "opponent": "Cornell",
+    "home": true,
+    "princeton_goals": 0,
+    "opponent_goals": 1,
+    "ivy": true,
+    "recap_url": null
+  },
+  {
+    "id": "2026-10-24-brown",
+    "date": "2026-10-24",
+    "opponent": "Brown",
+    "home": false,
+    "princeton_goals": 2,
+    "opponent_goals": 3,
+    "ivy": true,
+    "recap_url": null
+  },
+  {
+    "id": "2026-10-31-harvard",
+    "date": "2026-10-31",
+    "opponent": "Harvard",
+    "home": true,
+    "princeton_goals": 2,
+    "opponent_goals": 0,
+    "ivy": true,
+    "recap_url": null
+  },
+  {
+    "id": "2026-11-07-penn",
+    "date": "2026-11-07",
+    "opponent": "Penn",
+    "home": true,
+    "princeton_goals": 2,
+    "opponent_goals": 3,
+    "ivy": true,
+    "recap_url": null
+  }
+]

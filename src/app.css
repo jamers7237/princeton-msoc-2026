@@ -1,0 +1,23 @@
+:root {
+  --ink: #121212;
+  --muted: #666;
+  --rule: #ddd;
+  --bg: #fff;
+  --accent: #e77500; /* Princeton orange */
+  --win: #2e7d32;
+  --draw: #9e9e9e;
+  --loss: #c62828;
+  font-family: Georgia, 'Times New Roman', serif;
+  color: var(--ink);
+  background: var(--bg);
+  line-height: 1.5;
+}
+body { margin: 0; }
+main { max-width: 640px; margin: 0 auto; padding: 24px 16px 48px; }
+h1, h2, .kicker, .byline, button { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+h1 { font-size: 2rem; margin: 0 0 4px; }
+h2 { font-size: 1.15rem; margin: 32px 0 8px; }
+.kicker { text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.8rem; color: var(--accent); margin: 0; }
+.byline { font-size: 0.9rem; color: var(--muted); margin: 0 0 12px; }
+footer { margin-top: 40px; font-size: 0.85rem; color: var(--muted); border-top: 1px solid var(--rule); padding-top: 12px; }
+a { color: var(--accent); }
