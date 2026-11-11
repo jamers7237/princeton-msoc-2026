@@ -31,5 +31,5 @@ https://ivyleague.com/calendar.aspx?path=msoc
 - `src/App.svelte` — page layout and intro
 - `src/lib/data.js` — loads the JSON and computes results, goal windows, Ivy points
 - `src/lib/Timeline.svelte` — match-by-match timeline (tap a match for details)
-- `src/lib/GoalTiming.svelte` — goals scored/conceded by 15-minute window (TODO)
-- `src/lib/IvyRace.svelte` — cumulative Ivy points by matchday (TODO)
+- `src/lib/GoalTiming.svelte` — goals scored/conceded by 15-minute window
+- `src/lib/IvyRace.svelte` — cumulative Ivy points by matchday
