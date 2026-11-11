@@ -33,7 +33,3 @@ https://ivyleague.com/calendar.aspx?path=msoc
 - `src/lib/Timeline.svelte` — match-by-match timeline (tap a match for details)
 - `src/lib/GoalTiming.svelte` — goals scored/conceded by 15-minute window (TODO)
 - `src/lib/IvyRace.svelte` — cumulative Ivy points by matchday (TODO)
-
-## Deploy
-
-Push to `main` on GitHub. In the repo's **Settings → Pages**, set Source to **GitHub Actions**. The workflow in `.github/workflows/deploy.yml` builds and publishes the site.
