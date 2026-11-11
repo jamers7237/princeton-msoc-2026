@@ -16,7 +16,7 @@ All data is entered by hand from official box scores into `src/data/`:
 
 | File | One row per | Fields |
 | --- | --- | --- |
-| `matches.json` | Princeton match | `id` (e.g. `2026-09-05-lafayette`), `date` (YYYY-MM-DD), `opponent`, `home` (true/false), `princeton_goals`, `opponent_goals`, `ivy` (true/false), `recap_url` (your Prince article or null) |
+| `matches.json` | Princeton match | `id` (e.g. `2026-09-05-lafayette`), `date` (YYYY-MM-DD), `opponent`, `home` (true/false), `princeton_goals`, `opponent_goals`, `ivy` (true/false), `recap_url` (Princeton athletics recap links) |
 | `goals.json` | goal | `match_id` (matches an `id` above), `minute`, `scorer`, `team` (`princeton` or `opponent`) |
 | `ivy_results.json` | Ivy League match (all teams) | `matchday`, `date`, `home`, `away`, `home_goals`, `away_goals` |
 
