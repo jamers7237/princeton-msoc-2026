@@ -2,8 +2,6 @@
 
 An interactive look at Princeton men's soccer's 2026 season: every match, when the goals came, and the Ivy League race.
 
-Built by James Li, sports contributor at The Daily Princetonian.
-
 ## Run it locally
 
 ```bash
@@ -23,7 +21,9 @@ All data is entered by hand from official box scores into `src/data/`:
 | `ivy_results.json` | Ivy League match (all teams) | `matchday`, `date`, `home`, `away`, `home_goals`, `away_goals` |
 
 Sources: 
+
 https://goprincetontigers.com/sports/mens-soccer/schedule
+
 https://ivyleague.com/calendar.aspx?path=msoc
 
 ## Structure
